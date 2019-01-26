@@ -28,7 +28,7 @@
         </div>
         <div class="panel-value pull-right">
           <h2 class="margin-top"> <?php  echo $c_user['total']; ?> </h2>
-          <p class="text-muted">Usuarios</p>
+          <p class="text-muted">Usuario</p>
         </div>
        </div>
     </div>
