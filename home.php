@@ -11,7 +11,7 @@
  <div class="col-md-12">
     <div class="panel">
       <div class="jumbotron text-center">
-         <h1>Esta es su nueva página de inicio</h1>
+         <h1>Esta es LA PAGINA DE INICIO página de inicio</h1>
      
       </div>
     </div>
