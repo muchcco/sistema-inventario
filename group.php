@@ -19,7 +19,7 @@
         <span class="glyphicon glyphicon-th"></span>
         <span>Grupos</span>
      </strong>
-       <a href="add_group.php" class="btn btn-info pull-right btn-sm"> Agregar grupo</a>
+       <a href="add_group.php" class="btn btn-info pull-right btn-sm"> Agregar grupos</a>
     </div>
      <div class="panel-body">
       <table class="table table-bordered">
